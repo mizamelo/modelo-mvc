@@ -1,0 +1,23 @@
+{
+    "name": "MODELO-MVC",
+    "description": "Modelo simples de estrutura baseado no padrão de projetos MVC",
+    "authors": [
+        {
+            "name": "Mizael de Melo",
+            "email": "mizamelo22@gmail.com",
+            "homepage": "http://linkedin.com/in/mizael-melo-953710109/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {
+        "php" : "^7.1",
+        "robmorgan/phinx": "^0.9.2",
+        "symfony/yaml": "^3.4",
+        "twig/twig": "^2.4"
+    }
+}

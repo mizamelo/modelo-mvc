@@ -1,0 +1,25 @@
+paths:
+    migrations: '%%PHINX_CONFIG_DIR%%/src/database/migrations'
+    seeds: '%%PHINX_CONFIG_DIR%%/src/database/seeds'
+
+environments:
+    default_migration_table: migrationlog
+    default_database: production
+    production:
+        adapter: mysql
+        host: localhost
+        name: dbname
+        user: root
+        pass: ''
+        port: 3306
+        charset: utf8
+
+    development:
+        adapter: mysql
+        host: localhost
+        name: dbname
+        user: dbuser
+        pass: ''
+        port: 1433
+        charset: utf8
+version_order: creation
