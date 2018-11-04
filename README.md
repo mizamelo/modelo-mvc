@@ -1,4 +1,4 @@
-# Modelo `MVC`
+# Modelo básico de projeto sobre `MVC`
 
 __M__ odelo simples baseado no padrão de projetos MVC
 
