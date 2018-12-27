@@ -1,6 +1,6 @@
 # Modelo básico de projeto sobre `MVC`
 
-Modelo simples baseado no padrão de projetos MVC.
+Modelo simples baseado no padrão de projetos MVC
 
 ## Instalação ##
 
