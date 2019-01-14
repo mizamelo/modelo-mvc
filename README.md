@@ -60,5 +60,3 @@ define("BASE_URL", "http://localhost");
 O _.htaccess_ deve ser alterado juntamente com a constante __BASE_URL__ caso a url padrão do servidor aponte para alguma pasta.
 
 
-___Mizael Melo___ 
-*PHP Developer*
