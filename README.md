@@ -57,6 +57,7 @@ define("BASE_URL", "http://localhost");
 ````
 ### Atenção!
 
+
 O _.htaccess_ deve ser alterado juntamente com a constante __BASE_URL__ caso a url padrão do servidor aponte para alguma pasta.
 
 
